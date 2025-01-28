@@ -14,8 +14,13 @@ As a professional, I am committed to continuous learning, since I consider it as
 
 ### 🎓 Background:
 I have a Data-Science certificate 👨‍💻 from [Soy Henry](https://www.soyhenry.com)
+
 I have a Bachelor of Science in Chemistry 👨‍🔬 from [Universidad Central de Venezuela](http://www.ucv.ve)
 
 ### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/samuel-antonio-rangel-sar021/)
 * [Email](samuel.rangel.021@gmail.com)
+* ~~~text
+code();
+address@domain.example
+~~~
