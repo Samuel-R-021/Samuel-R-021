@@ -1,4 +1,4 @@
-## 👋 Welcome! My name is Samuel Rangel.
+##👋 Welcome! My name is Samuel Rangel.
 
 ### 🙋‍♂️ About me:
 As a Data Scientist, I can provide a novel perspective to the area, such as the extraction of valuable information, by applying the scientific method, knowledge and skills acquired during my career in chemistry. Also, I can show and explain complex information in a simple and effective way, thanks to my experience teaching and tutoring students at multiple levels (school and college students).
@@ -13,6 +13,7 @@ As a professional, I am committed to continuous learning, since I consider it as
 * Version Control: Git, GitHub.
 
 ### 🎓 Background:
+I have a Data-Science certificate 👨‍💻 from [Soy Henry](https://www.soyhenry.com)
 I have a Bachelor of Science in Chemistry 👨‍🔬 from [Universidad Central de Venezuela](http://www.ucv.ve)
 
 ### 📫 How to reach me:
