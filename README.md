@@ -1,4 +1,4 @@
-##👋 Welcome! My name is Samuel Rangel.
+## 👋 Welcome! My name is Samuel Rangel.
 
 ### 🙋‍♂️ About me:
 As a Data Scientist, I can provide a novel perspective to the area, such as the extraction of valuable information, by applying the scientific method, knowledge and skills acquired during my career in chemistry. Also, I can show and explain complex information in a simple and effective way, thanks to my experience teaching and tutoring students at multiple levels (school and college students).
