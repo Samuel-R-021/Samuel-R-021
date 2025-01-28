@@ -19,8 +19,4 @@ I have a Bachelor of Science in Chemistry 👨‍🔬 from [Universidad Central 
 
 ### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/samuel-antonio-rangel-sar021/)
-* [Email](samuel.rangel.021@gmail.com)
-* ~~~text
-code();
-address@domain.example
-~~~
+* Email: samuel.rangel.021@gmail.com
